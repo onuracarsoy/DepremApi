@@ -4,6 +4,6 @@
 
 -Veriler dakikada 1 güncellenmektedir.
 
--3'ün üzerindedki büyüklükteki depremlerde ekranda sesli uyarı verilmektedir.
+-3'ün üzerindeki depremlerde ekranda sesli uyarı mesajı verilmektedir.
 
 Kaynak: https://api.orhanaydogdu.com.tr/deprem/api-docs/#/INT/get_deprem_status
