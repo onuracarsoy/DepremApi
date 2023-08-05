@@ -1,1 +1,9 @@
-# DepremApi
+-Deprem verileri güncel olarak api ile çekilmiştir(Api json formatında kandilli rasathanesinin verilerini kullanarak yazan bir github kullanıcısı tarafından consume edilmiştir sonda kaynakta belirtilmiştir).
+
+-Deprem verileri Tarih-Şehir-Büyüklük-Derinlik-Koordinat olarak listlenmiştir daha detaylandırabilirsiniz.
+
+-Veriler dakikada 1 güncellenmektedir.
+
+-3'ün üzerindedki büyüklükteki depremlerde ekranda sesli uyarı verilmektedir.
+
+Kaynak: https://api.orhanaydogdu.com.tr/deprem/api-docs/#/INT/get_deprem_status
