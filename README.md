@@ -10,5 +10,6 @@
 
 Kaynak: https://api.orhanaydogdu.com.tr/deprem/api-docs/#/INT/get_deprem_status
 
-![Depremapipng](https://github.com/onuracarsoy/KandilliDepremVerisiUygulamasi/assets/115365153/e5ef31fa-6577-4566-99b1-e4e1db72b3c3)
+![deprempnjg](https://github.com/onuracarsoy/KandilliDepremVerisiUygulamasi/assets/115365153/2b80b758-351f-43af-a910-e5de273e4236)
+
 
