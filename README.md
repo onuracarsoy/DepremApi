@@ -2,6 +2,8 @@
 
 -Deprem verileri Tarih-Şehir-Büyüklük-Derinlik-Koordinat olarak listlenmiştir daha detaylandırabilirsiniz.
 
+-Depremler büyüklüklerine göre katagorize edilmiştir.
+
 -Veriler dakikada 1 güncellenmektedir.
 
 -3'ün üzerindeki depremlerde ekranda sesli uyarı mesajı verilmektedir.
