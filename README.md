@@ -2,7 +2,7 @@
 
 -Deprem verileri Tarih-Şehir-Büyüklük-Derinlik-Koordinat olarak listlenmiştir daha detaylandırabilirsiniz.
 
--Depremler büyüklüklerine göre katagorize edilmiştir.
+-Depremler büyüklüklerine göre kategorize edilmiştir.
 
 -Veriler dakikada 1 güncellenmektedir.
 
